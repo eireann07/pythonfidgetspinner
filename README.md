@@ -1,5 +1,5 @@
 # Python Fidget Spinner
-Basic python fidget spinner, coded Feb 2022
+*Basic python fidget spinner that activates and "speeds up" when the spacebar is pressed. Coded Feb 2022 with Spyder from Anaconda IDE.*
 
 **What I enjoyed while writing this program:** I had only done written Python programs from the Codecademy curriculum, so this was my first attempt at following a tutorial online, so I'm pretty proud of that. I also really like working with the turtle graphics library.
 
